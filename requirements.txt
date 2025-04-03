@@ -20,4 +20,4 @@ Werkzeug==3.0.3
 streamlit==1.40.0
 requests==2.32.3
 pandas==2.2.3
-pickle5==0.0.11
+
